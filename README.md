@@ -2,9 +2,9 @@
 Experienced technology leader specializing in modernizing engineering strategies, leading high-performing teams, and driving IT transformations.
 
 ## About Me
-Over 15 years of experience in software development, DevOps, automated testing, and product management. I foster transparent company cultures and lead strategic IT shifts.
+20+ years of experience in software development, DevOps, automated testing, and product management. I foster transparent company cultures and lead strategic IT shifts.
 
-As a CTO, I led the development of new SaaS products and platforms, implementing best practices like:
+As CTO, I led the development of new SaaS products and platforms, implementing best practices like:
 
 - Infrastructure as Code
 - Automated CI/CD (using industry-standard tools)
